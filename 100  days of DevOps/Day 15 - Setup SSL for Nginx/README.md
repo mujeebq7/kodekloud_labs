@@ -1,4 +1,4 @@
-## The task is to setup SSL for Nginx on one of the application server
+## Install Nginx and configure HTTPS using a self-signed certificate.
 
 ### Description
 
@@ -17,11 +17,16 @@ Prepare the server as per requirements shared below:
    For example: curl -k https://app-server-name/
 
 
-### Task
+---
 
-This is a straightforward Nginx + SSL configuration task. We are using Rocky Linux machine for this task.
+## Prerequisites
 
-Lets consider App Server 1 for this task. Below are the exact steps you can follow on App Server 1.
+- Linux server
+- Root access
+- SSL certificate
+- SSL key
+
+---
 
 ### Step 1: SSH into App Server 1
 ```bash
