@@ -33,7 +33,6 @@ sudo su
 ```bash
 docker network ls
 ```
-<img width="403" height="105" alt="image" src="https://github.com/user-attachments/assets/a337b513-8590-45ea-b02b-7976e8aa81ce" />
 
 ### Step 3: Add the beta network as per the task
 
@@ -44,7 +43,6 @@ docker network create beta --driver=bridge --subnet=172.168.0.0/24 --ip-range=17
 ```bash
 docker network ls
 ```
-<img width="409" height="125" alt="image" src="https://github.com/user-attachments/assets/51c1cfad-e283-4d4f-9c10-06bb9946d8ba" />
 
 ---
 Task Completed
