@@ -17,7 +17,7 @@ Note: The kubectl utility on the jump-host has been configured to work with the 
 
 ---
 
-Step 1: Create the job manifest file
+Step 1: Create the job manifest
 
 ```bash
 apiVersion: batch/v1
