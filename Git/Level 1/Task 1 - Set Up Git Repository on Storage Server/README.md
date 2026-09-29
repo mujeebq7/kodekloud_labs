@@ -29,4 +29,5 @@ ls -ld /opt/official.git
 A bare Git repository will contain directories/files such as HEAD, config, objects, refs, and hooks.
 
 ---
+
 Task Completed
