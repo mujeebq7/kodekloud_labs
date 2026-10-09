@@ -22,7 +22,8 @@ Step 2: Verify the branch exists
 git branch
 ```
 
-Step 3: Switch to another branch
+Step 3: Switch to another branch.
+
 You cannot delete the branch while it is checked out.
 
 ```bash
